@@ -1,0 +1,11 @@
+h2,
+h1 {
+    background-color: darkgreen;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
